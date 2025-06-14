@@ -1,0 +1,1 @@
+Bu hafta, HTTP isteklerinde spoofing (sahtecilik) konusunu ele aldık. Sunucuya, gelen isteğin Firefox tarayıcısından gönderilmiş gibi görünmesini sağlayan bir uygulama geliştirdik.
